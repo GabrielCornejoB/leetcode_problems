@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/longest-common-prefix/
+
 package Java;
 
 class Solution {
@@ -16,4 +18,3 @@ class Solution {
         return prefix;
     }
 }
-
