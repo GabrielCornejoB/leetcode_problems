@@ -1,6 +1,6 @@
 # **Leetcode**
 
-Este repo tiene el proposito de guardar mis soluciones de problemas de **Programación Competitiva** de la plataforma (LeetCode)[https://leetcode.com/].
+Este repo tiene el proposito de guardar mis soluciones de problemas de **Programación Competitiva** de la plataforma [LeetCode](https://leetcode.com).
 
 ## **Experiencia previa**
 
