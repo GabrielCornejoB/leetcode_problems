@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/palindrome-number/description/
 
-package Java;
-
 class Solution {
     public boolean isPalindrome(int x) {
         int originalNumber = x;

@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
-package Java;
-
 public class bestTimeToBuyAndSellStock {
     public static int maxProfit(int[] prices) {
         // Points to buy day

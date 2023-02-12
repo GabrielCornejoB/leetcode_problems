@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/longest-common-prefix/
 
-package Java;
-
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         // Prefijo se inicializa en la primera palabra del array

@@ -1,7 +1,5 @@
 // https://leetcode.com/problems/product-of-array-except-self/description/
 
-package Java;
-
 public class productOfArrayExceptSelf {
     public static int[] productExceptSelf(int[] nums) {
         int ans[] = new int[nums.length];

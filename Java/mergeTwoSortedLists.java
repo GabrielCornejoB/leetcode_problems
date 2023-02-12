@@ -9,8 +9,6 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-package Java;
-
 public class mergeTwoSortedLists {
     public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
 
